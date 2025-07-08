@@ -1,0 +1,14 @@
+body{
+    margin : 200px;
+
+}
+
+.images{
+    border : 6px solid black;
+    border-radius: 200px;
+}
+#btn{
+    background-color:black;
+    color:white;
+    border-radius:200px;
+}
